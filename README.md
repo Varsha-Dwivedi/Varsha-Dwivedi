@@ -18,7 +18,7 @@ Hi, I'm Varsha having an experience of 1 year in development.
 
 <b>Job Roles:</b>
 <br>
-I’m interested in development tasks. Would love to work on challenging tasks so that i can improve my technical skills.
+I’m interested in development tasks where i can explot my technical skills and improve them.
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
