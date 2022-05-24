@@ -33,8 +33,8 @@ Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.c
 </br>
 <b>Statics:</b>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=varsha-clixlogix&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=varsha-clixlogix&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=varsha-dwivedi&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=varsha-dwivedi&theme=gruvbox&hide_border=true" />
 </p>
 <br>
 
