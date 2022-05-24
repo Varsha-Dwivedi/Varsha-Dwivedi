@@ -31,7 +31,7 @@ Expertise: Development,
 Please connect with me on  <a style="color: blue;" href="https://www.clixlogix.com/contact-us/">varsha.d@clixlogix.net</a>
 </br>
 </br>
-<b>Statics:</b>
+<b>Statistics:</b>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=varsha-dwivedi&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=varsha-dwivedi&theme=gruvbox&hide_border=true" />
